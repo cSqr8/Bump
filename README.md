@@ -8,8 +8,3 @@ Installation can be done either manually or automatically!
 Via the website or via your terminal.
 ```git clone https://github.com/cSqr8/Bump```
 or ```https://Bump.vercel.com/```
-
-# Support
-Twitch:  _Bump_
-Discord: _dsc.gg/bumps_
-Telegram: _Bumpys_
